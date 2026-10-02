@@ -31,9 +31,3 @@ Hello, I am **Wexaro**. I enjoy creating websites and designs in the Minecraft s
 ![Pixel Art UI/UX](https://img.shields.io/badge/Pixel_Art_UI%2FUX-5865F2?style=for-the-badge&logo=aseprite&logoColor=white)
 ![Pixel Art Animations](https://img.shields.io/badge/Pixel_Art_Animations-8A2BE2?style=for-the-badge&logo=framer&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wexaro&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
