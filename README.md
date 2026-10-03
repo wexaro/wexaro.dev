@@ -6,6 +6,7 @@ Hello, I am **Wexaro**. I enjoy creating websites and designs in the Minecraft s
 
 ### 📬 Contact
 - **Discord:** wexaro.dev
+- **Email:** wexaro.dev@gmail.com
 
 ---
 
@@ -13,7 +14,7 @@ Hello, I am **Wexaro**. I enjoy creating websites and designs in the Minecraft s
 
 #### Programming Languages & Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React Vault](https://img.shields.io/badge/React_Vault-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React_-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 #### Frameworks & Platforms
 ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=next.js&logoColor=white)
